@@ -30,6 +30,16 @@ The dashboard includes:
 - Top 10 Cities by Orders
 - Revenue by Order Hour
 
+## Key Insights
+
+- Total revenue of ₹35,20,984 generated from 1,000 orders
+- Colors is the highest-revenue product category
+- Anniversary and Raksha Bandhan show strong occasion-based revenue
+- Revenue shows noticeable seasonal variation across months
+- Imphal records the highest orders among the displayed cities
+- Evening hours show stronger revenue activity
+
+  
 ## Tools & Skills
 
 - Microsoft Excel
@@ -43,7 +53,8 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Sales Analysis Dashboard](Dashboard.png)
+![Sales Analysis Dashboard](<img width="1315" height="503" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/d3945689-aa58-40fb-a6a5-10c4ac9a72a8" />
+)
 
 ## Conclusion
 
