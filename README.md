@@ -53,7 +53,7 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Sales Analysis Dashboard](<img width="1315" height="503" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/d3945689-aa58-40fb-a6a5-10c4ac9a72a8" />
+(<img width="1315" height="503" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/d3945689-aa58-40fb-a6a5-10c4ac9a72a8" />
 )
 
 ## Conclusion
